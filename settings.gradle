@@ -1,4 +1,4 @@
-rootProject.name = 'SampleCleanArchitectureProject'
+rootProject.name = 'onion-spring-boot-template'
 
 include 'domain'
 include 'application'
